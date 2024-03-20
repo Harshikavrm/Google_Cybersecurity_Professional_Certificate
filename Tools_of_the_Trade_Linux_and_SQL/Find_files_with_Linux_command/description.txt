@@ -1,0 +1,1 @@
+This folder contains practice screenshot of finding files in directory with Linux command in Bash shell.
