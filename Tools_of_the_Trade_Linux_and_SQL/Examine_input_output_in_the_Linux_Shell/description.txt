@@ -1,0 +1,1 @@
+This folder contains the screenshots of input/output commands in Linux Bash shell practice.
