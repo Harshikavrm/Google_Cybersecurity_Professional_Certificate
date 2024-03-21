@@ -1,0 +1,1 @@
+This folder contains practice screenshots of filtering SQL queries with AND, OR, and NOT.
