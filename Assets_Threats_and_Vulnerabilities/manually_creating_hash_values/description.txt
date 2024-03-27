@@ -1,0 +1,1 @@
+This folder contains the practice screenshot of creating hash values.
