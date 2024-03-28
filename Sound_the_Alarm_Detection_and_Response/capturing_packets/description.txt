@@ -1,0 +1,1 @@
+This folder contains the practice screenshots of capturing packets in bash shell.
